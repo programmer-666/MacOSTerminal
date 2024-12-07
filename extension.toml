@@ -1,0 +1,7 @@
+id = "macosterminal"
+name = "MacOS Terminal"
+version = "0.0.1"
+schema_version = 1
+authors = ["Süha Arslan <suha@suhaarslan.com>"]
+description = "MacOS terminal theme that comes in dark color tone by default."
+repository = "https://github.com/programmer-666/MacOSTerminal"
